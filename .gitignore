@@ -1,0 +1,4 @@
+
+airflow3/logs/
+airflow3/config/
+.env
